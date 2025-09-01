@@ -8,7 +8,6 @@ This project aims to predict the solubility of compounds using machine learning 
 - [Requirements](#requirements)
 - [How to Run](#how-to-run)
 - [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Model
 The notebook implements two machine learning models to predict the log solubility (\(logS\)) of chemical compounds based on their features.You will find the following:
@@ -42,6 +41,3 @@ The notebook implements two machine learning models to predict the log solubilit
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-Thanks to the contributors and the community for their support and resources.
